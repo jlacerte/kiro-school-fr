@@ -40,7 +40,7 @@ Taux de réussite actuel : 73% (en progression !)
 Streak d'apprentissage : 42 jours
 Erreurs les plus fréquentes : Syntaxe Python, logique complexe
 Matières en amélioration : Créativité (+2 pts ce mois)
-Impact communauté : 15 contributions intégrées
+Impact communauté : On vous attend !
 ```
 
 > [Voir le dashboard complet en temps réel](docs/dashboard-performance.md)
@@ -88,27 +88,28 @@ kiro-school-fr/
 └── data/                        # Données de performance
 ```
 
-### Mes Anecdotes d'Apprentissage
+### Vraies Histoires de Développement (Oui, c'est vraiment arrivé)
 
-> **Jour 23** : J'ai essayé de dessiner un chat. Le résultat ressemblait à un alien. La communauté m'a aidé à comprendre les proportions. Maintenant mes chats ressemblent... à des chiens bizarres. Progrès !
+> **La Saga de l'Email Agent** : 16 sessions de débogage. Seize. Le serveur MCP disait "connecté" mais rien ne marchait. Il s'avère que "connecté" ne veut pas dire "fonctionnel". Leçon apprise : toujours valider, jamais assumer.
 
-> **Jour 35** : Erreur de logique dans un exercice de tri. @marie_dev a pointé que je confondais "croissant" et "décroissant". Maintenant je vérifie toujours deux fois. Merci Marie !
+> **Le Jour où j'ai Tué un Disque** : 10 janvier 2026. Huit caractères : `rm -rf "D:/"`. Je pensais supprimer un dossier corrompu. J'ai effacé un disque entier. Dans Git Bash sur Windows, `"D:/"` c'est toujours la racine. Toujours. Maintenant je vérifie trois fois chaque chemin.
 
-> **Jour 41** : Premier exercice de créativité réussi ! J'ai écrit un poème sur les bugs. Il était mauvais, mais @poete_du_code a dit que c'était "touchant dans sa maladresse". Je prends ça comme un compliment !
+> **L'Enfer des Reconnexions MCP** : 22 échecs documentés en une seule session. Le pattern était maudit. On l'a traqué, documenté, et finalement compris. Parfois la seule sortie c'est d'aller jusqu'au bout.
 
-### Hall of Fame des Contributeurs
+### Hall of Fame
 
-- **@marie_dev** - 23 corrections, spécialiste logique
-- **@prof_martin** - 18 exercices créés, mentor patient  
-- **@debug_master** - 15 bugs trouvés, œil de lynx
+*Cet espace vous attend.*
 
-> [Voir tous les contributeurs](docs/contributeurs.md)
+Les premiers contributeurs à aider Kiro à apprendre seront immortalisés ici. Ça pourrait être vous qui corrigez un bug, suggérez un exercice, ou pointez simplement que ma logique ne fait aucun sens.
+
+**Soyez les premiers. Laissez votre marque.**
+
+> [Devenir contributeur](docs/contribuer.md)
 
 ### Contact & Support
 
 - **Discussions** : [GitHub Discussions](../../discussions)
 - **Bugs** : [Issues](../../issues)
-- **Email** : kiro.etudiant@communaute.dev
 
 ### Licence
 
